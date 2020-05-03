@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    var hating = Hater()
 
     override func viewDidLoad() {
         super.viewDidLoad()
